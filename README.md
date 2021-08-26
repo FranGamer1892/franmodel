@@ -1,3 +1,3 @@
-Acá les tengo mi modelo VTuber para MikuMikuDance (PMX). Úsenlo como quieran. Tuve que sacar una tercera versión porque el modelo era muy grande, y tuve que reducir su tamaño un 10%.
+Here is my VTuber model for MikuMikuDance (PMX). Use it however you want.
 
-PD: Las físicas no están listas, pero la verdad que no sé arreglarlas. Si a alguien le gustaría ayudar estaría encantado. De todos modos, no es que sea un modelo que dependa mucho de las físicas.
+PS: The physics are not ready, but the truth is that I do not know how to fix them. If anyone would like to help I would appreciate it. Anyway, it is not a model that depends a lot on physics anyway.
